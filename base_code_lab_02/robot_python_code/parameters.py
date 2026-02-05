@@ -23,3 +23,4 @@ data_name_list = ['time', 'control_signal', 'robot_sensor_signal', 'camera_senso
 
 # Experiment trial parameters
 trial_time = 7500 # milliseconds
+extra_trial_log_time = 2000 # milliseconds
